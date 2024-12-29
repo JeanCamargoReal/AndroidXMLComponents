@@ -14,6 +14,7 @@
         tools:text="Curso Android"
         android:textSize="30sp"
         android:textColor="#47E34D"
+        android:fontFamily="@font/this_cafe"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
